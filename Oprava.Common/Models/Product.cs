@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace Oprava.Common.Models
 {
+    //aqui estan los modelos de la base de datos
     using System;
     using System.ComponentModel.DataAnnotations;
     public  class Product

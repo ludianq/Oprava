@@ -10,6 +10,9 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oprava.UWP", "Oprava\Oprava.UWP\Oprava.UWP.csproj", "{00ECC0B5-07AB-42E6-A7B9-C430B1180341}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Oprava", "Oprava\Oprava\Oprava.csproj", "{2F3ED479-F686-42A0-A34F-0317567F7BFC}"
+	ProjectSection(ProjectDependencies) = postProject
+		{B7B81256-5309-44B8-BF0C-6B2B75D09EC7} = {B7B81256-5309-44B8-BF0C-6B2B75D09EC7}
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oprava.Backend", "Oprava.Backend\Oprava.Backend.csproj", "{0CEDF34D-B5AE-4757-B42E-8AEA22C0DE78}"
 EndProject
